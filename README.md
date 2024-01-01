@@ -1,5 +1,5 @@
 ### Hi There 👋
-<a href="https://neogurios.tistory.com" target="_blank"><img src="https://img.shields.io/badge/T-blog-black"/></a> <a href="www.linkedin.com/in/neoguri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B63BC?style=flat&logo=linkedin&logoColor=white"/></a><br>
+<a href="https://neogurios.tistory.com" target="_blank"><img src="https://img.shields.io/badge/T-blog-black"/></a> <a href="www.linkedin.com/in/neoguri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B63BC?style=flat&logo=linkedin&logoColor=white"/></a>
 ##  Activity
 - KWDC 2023, Staff 
 - CMC 12th TEAM SOLE, iOS Developer
