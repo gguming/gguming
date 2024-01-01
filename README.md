@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi There 👋
+<a href="https://neogurios.tistory.com" target="_blank"><img src="https://img.shields.io/badge/T-blog-black"/></a> <a href="www.linkedin.com/in/희선-장-b8b183284" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B63BC?style=flat&logo=linkedin&logoColor=white"/></a><br>
+##  Activity
+- KWDC 2023, Staff 
+- CMC 12th TEAM SOLE, iOS Developer
+- CMC-CX 1st TEAM 색갈피, PM/iOS Developer
+- SSAC 3rd 디자이너와 함께하는 앱 개발 
+
 
 <!--
 **gguming/gguming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
